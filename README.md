@@ -1,6 +1,5 @@
-Oiie! Me chamo Luiz Paschoa 
-- 🔭 No momento sem emprego
-- 🌱 Estudando Python & Java
+Developer 🎗️
+🇧🇷🇺🇸🇪🇸🇯🇵🇰🇷
 
 
 
